@@ -1,0 +1,24 @@
+{
+  "name": "threeplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo js/index.js --live --port 4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mel-booth/threeplay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mel-booth/threeplay/issues"
+  },
+  "homepage": "https://github.com/mel-booth/threeplay#readme",
+  "dependencies": {
+    "budo": "^9.2.2"
+  }
+}
